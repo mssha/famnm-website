@@ -51,6 +51,7 @@ div.carousel-tmp > img.carousel-loading {
 	height: 150px;
 	padding: 25px;
 	margin: 0 auto;
+        animation: spin 1s linear infinite;
 }
 
 @media (max-width: 767px)
